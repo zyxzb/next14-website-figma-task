@@ -19,7 +19,7 @@ const Hero = () => {
               </h1>
             </div>
             <div className='flex flex-col gap-10'>
-              <p className='font-robotoCondensed leading-[24px]'>
+              <p className='font-robotoCondensed leading-6'>
                 Kup komfortowy pojazd, aby każda podróż <br /> była wyjątkowym
                 przeżyciem.
               </p>
